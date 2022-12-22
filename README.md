@@ -2,7 +2,7 @@
 
 I am a junior developer from The Netherlands. I am studying to become a full-stack developer!
 
-- 🔭 I’m currently working on: The ITC webapp!
+- 🔭 I’m currently working on: The ITC webapp
 - 👨‍🎓  Educational Background: Mathematics & Physics
 
 ### Languages & Tools I Use:
