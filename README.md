@@ -1,6 +1,6 @@
 ### Hi, my name is Bram 👋
 
-I am a junior developer from The Netherlands. I am learning to become a full-stack developer.
+I am a software developer from The Netherlands. I am learning to become a full-stack developer.
 
 - 🔭 I’m currently working on: The ITC webapp
 
