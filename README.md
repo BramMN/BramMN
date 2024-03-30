@@ -1,8 +1,8 @@
 ### Hi, my name is Bram 👋
 
-I am a software developer from The Netherlands. I am learning to become a full-stack developer.
+I am a full-stack software developer from The Netherlands.
 
--  I’m currently working on: The ITC webapp
+-  I’m currently working on: The ITC webapp (financial data platform)
 
 ### Programming Languages & Tools That I Use:
 
