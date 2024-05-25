@@ -2,7 +2,7 @@
 
 I am a full-stack software developer
 
--  I’m currently working on: The ITC webapp (financial data platform)
+-  I’m currently working on: The ITC webapp
 
 ### Programming Languages & Tools That I Use:
 
