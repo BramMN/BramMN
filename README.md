@@ -4,7 +4,7 @@ I am a full-stack software developer
 
 -  I’m currently working on: The ITC webapp
 
-### Programming Languages & Tools That I Use:
+### Programming Languages & Tools That I Use Include:
 
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/ "React")
 [<img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />](https://nextjs.org/ "NextJS")
