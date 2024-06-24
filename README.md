@@ -17,7 +17,7 @@ I am a full-stack software developer
 [<img align="left" alt="Playwright" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" style="padding-right:10px;" />](https://playwright.dev/ "PlayWright")
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/ "Python")
 [<img align="left" alt="Prisma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" style="padding-right:10px;" />](https://https://www.prisma.io/ "Prisma")
-[<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />](https://firebase.google.com/ "Firebase")
+[<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" style="padding-right:10px;" />](https://firebase.google.com/ "Firebase")
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/ "MongoDB")
 [<img align="left" alt="Supabase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" style="padding-right:10px;" />](https://https://supabase.com/ "Supabase")
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/ "Visual Studio Code")
