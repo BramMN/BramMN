@@ -1,8 +1,8 @@
 ### Hi, my name is Bram 👋
 
-I am a full-stack software developer.
+I am a full-stack software developer
 
--  I’m currently working on: The ITC webapp.
+-  I’m currently working on: The ITC webapp
 
 ### Programming Languages and Tools That I Use Include:
 
